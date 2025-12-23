@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,United States,September 25 2019,2010,PG-13,148 min,Action & Adventure,"A thief who steals corporate secrets through dream-sharing technology."
+s2,TV Show,Stranger Things,The Duffer Brothers,Millie Bobby Brown,United States,July 15 2016,2016,TV-14,4 Seasons,TV Shows,"A group of kids uncover supernatural mysteries in their town."
+s3,Movie,3 Idiots,Rajkumar Hirani,Aamir Khan,India,August 1 2019,2009,PG,170 min,Comedies,"Three engineering students learn life lessons."
+s4,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,November 27 2019,2019,R,209 min,Dramas,"A mob hitman recalls his possible involvement in assassinations."
+s5,TV Show,Money Heist,Álex Pina,Úrsula Corberó,Spain,December 20 2017,2017,TV-MA,5 Seasons,International TV Shows,"A criminal mastermind plans the biggest heist."
+s6,Movie,Dangal,Nitesh Tiwari,Aamir Khan,India,April 27 2018,2016,PG,161 min,Sports,"A former wrestler trains his daughters to become champions."
+s7,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,December 1 2017,2017,TV-MA,3 Seasons,International TV Shows,"A family saga with time travel mysteries."
+s8,Movie,Interstellar,Christopher Nolan,Matthew McConaughey,United States,January 1 2020,2014,PG-13,169 min,Sci-Fi & Fantasy,"Explorers travel through a wormhole in space."
+s9,Movie,Parasite,Bong Joon-ho,Song Kang-ho,South Korea,October 8 2020,2019,R,132 min,Thrillers,"A poor family schemes to infiltrate a wealthy household."
+s10,TV Show,Narcos,José Padilha,Wagner Moura,United States,August 28 2015,2015,TV-MA,3 Seasons,Crime TV Shows,"The rise and fall of drug kingpin Pablo Escobar."
